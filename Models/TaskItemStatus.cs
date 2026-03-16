@@ -1,6 +1,6 @@
 ﻿namespace TrelloAPI.Models;
 
-public enum TaskStatus
+public enum TaskItemStatus
 {
     Pending,
     InProgress,
